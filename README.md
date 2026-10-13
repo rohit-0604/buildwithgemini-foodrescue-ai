@@ -12,9 +12,15 @@
 
 ## 📽️ Demo Video Walkthrough
 
-A complete demonstration video with neural voiceover narration is included:
-- **Download/View Video**: [`FoodRescue_AI_Demo.mp4`](public/foodrescue_ai_demo.mp4) (or on Desktop: `FoodRescue_AI_Demo.mp4`)
-- **Resolution**: 1080p Full HD (25 FPS, AAC Audio, 152s)
+A complete demonstration video with neural voiceover narration is available in the repository:
+
+- 🎬 **Watch on GitHub**: [**`public/foodrescue_ai_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_demo.mp4)
+- 💾 **Direct Download (11.4 MB)**: [**Download MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/raw/main/public/foodrescue_ai_demo.mp4)
+- 📦 **GitHub Release Asset**: [**Release v1.0.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.0.0)
+- ⚙️ **Specs**: 1080p Full HD Progressive (25 FPS, AAC Audio, 2m 32s)
+
+[![Watch Demo Video](assets/demo_thumbnail.jpg)](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_demo.mp4)
+*Click the image above to view the video file in GitHub.*
 
 ---
 

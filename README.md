@@ -14,20 +14,24 @@
 
 Two versions of the demonstration video with neural voiceover narration are available:
 
-### ⚡ 1. Fast Pitch (60-Second Version) - A Quick Review
-- 🎬 **Watch on GitHub**: [**`public/foodrescue_ai_60s_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_60s_demo.mp4)
-- 💾 **Direct Download (4.3 MB)**: [**Download 60s MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/raw/main/public/foodrescue_ai_demo_60s.mp4)
-- 📦 **Release Asset**: [**Release v1.1.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.1.0)
-- ⚙️ **Specs**: 1080p Full HD (25 FPS, AAC Audio, 53.7s)
+### ⚡ 1. Fast Pitch (60-Second Version) — A Quick Review for Judges
+- 🎬 **Watch Inline on GitHub**: [**`public/foodrescue_ai_60s_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_60s_demo.mp4)
+- 💾 **Direct Download (4.3 MB)**: [**Download 60s MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/download/v1.1.0/foodrescue_ai_60s_demo.mp4) *(or [Raw CDN Mirror](https://raw.githubusercontent.com/rohit-0604/buildwithgemini-foodrescue-ai/main/public/foodrescue_ai_60s_demo.mp4))*
+- 📦 **GitHub Release Asset**: [**Release v1.1.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.1.0)
+- ⚙️ **Specs**: 1080p Full HD Progressive (25 FPS, FastStart Web-Optimized, AAC Audio, 53.7s)
 
-[![Watch 60s Demo Video](assets/demo_60s_thumbnail.jpg)](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_60s_demo.mp4)
-*Click thumbnail above to open the 60s video directly.*
+<p align="center">
+  <a href="https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_60s_demo.mp4">
+    <img src="assets/demo_preview.gif" alt="FoodRescue AI Demo Preview" width="100%" />
+  </a>
+</p>
+<p align="center"><em>👆 Live automated multi-agent intake & extraction. Click animation above or link to watch 1080p video with audio.</em></p>
 
 ### 🔍 2. Full Architecture & Multi-Agent Deep Dive (2m 32s)
-- 🎬 **Watch on GitHub**: [**`public/foodrescue_ai_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_demo.mp4)
-- 💾 **Direct Download (11.4 MB)**: [**Download Full MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/raw/main/public/foodrescue_ai_demo.mp4)
-- 📦 **Release Asset**: [**Release v1.0.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.0.0)
-- ⚙️ **Specs**: 1080p Full HD Progressive (25 FPS, AAC Audio, 2m 32s)
+- 🎬 **Watch Inline on GitHub**: [**`public/foodrescue_ai_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_demo.mp4)
+- 💾 **Direct Download (11.4 MB)**: [**Download Full MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/download/v1.0.0/foodrescue_ai_demo.mp4) *(or [Raw CDN Mirror](https://raw.githubusercontent.com/rohit-0604/buildwithgemini-foodrescue-ai/main/public/foodrescue_ai_demo.mp4))*
+- 📦 **GitHub Release Asset**: [**Release v1.0.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.0.0)
+- ⚙️ **Specs**: 1080p Full HD Progressive (25 FPS, FastStart Web-Optimized, AAC Audio, 2m 32s)
 
 ---
 

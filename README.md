@@ -10,17 +10,24 @@
 
 ---
 
-## 📽️ Demo Video Walkthrough
+## 📽️ Demo Video Walkthroughs
 
-A complete demonstration video with neural voiceover narration is available in the repository:
+Two versions of the demonstration video with neural voiceover narration are available:
 
+### ⚡ 1. Fast Pitch (60-Second Version) — Perfect for Judges & Quick Reviews
+- 🎬 **Watch on GitHub**: [**`public/foodrescue_ai_60s_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_60s_demo.mp4)
+- 💾 **Direct Download (4.3 MB)**: [**Download 60s MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/raw/main/public/foodrescue_ai_demo_60s.mp4)
+- 📦 **Release Asset**: [**Release v1.1.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.1.0)
+- ⚙️ **Specs**: 1080p Full HD (25 FPS, AAC Audio, 53.7s)
+
+[![Watch 60s Demo Video](assets/demo_60s_thumbnail.jpg)](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_60s_demo.mp4)
+*Click thumbnail above to open the 60s video directly.*
+
+### 🔍 2. Full Architecture & Multi-Agent Deep Dive (2m 32s)
 - 🎬 **Watch on GitHub**: [**`public/foodrescue_ai_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_demo.mp4)
-- 💾 **Direct Download (11.4 MB)**: [**Download MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/raw/main/public/foodrescue_ai_demo.mp4)
-- 📦 **GitHub Release Asset**: [**Release v1.0.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.0.0)
+- 💾 **Direct Download (11.4 MB)**: [**Download Full MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/raw/main/public/foodrescue_ai_demo.mp4)
+- 📦 **Release Asset**: [**Release v1.0.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.0.0)
 - ⚙️ **Specs**: 1080p Full HD Progressive (25 FPS, AAC Audio, 2m 32s)
-
-[![Watch Demo Video](assets/demo_thumbnail.jpg)](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_demo.mp4)
-*Click the image above to view the video file in GitHub.*
 
 ---
 

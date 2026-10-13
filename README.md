@@ -14,7 +14,7 @@
 
 Two versions of the demonstration video with neural voiceover narration are available:
 
-### ⚡ 1. Fast Pitch (60-Second Version) — Perfect for Judges & Quick Reviews
+### ⚡ 1. Fast Pitch (60-Second Version) - A Quick Review
 - 🎬 **Watch on GitHub**: [**`public/foodrescue_ai_60s_demo.mp4`**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/blob/main/public/foodrescue_ai_60s_demo.mp4)
 - 💾 **Direct Download (4.3 MB)**: [**Download 60s MP4**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/raw/main/public/foodrescue_ai_demo_60s.mp4)
 - 📦 **Release Asset**: [**Release v1.1.0**](https://github.com/rohit-0604/buildwithgemini-foodrescue-ai/releases/tag/v1.1.0)

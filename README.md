@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-Next.js%2014-3178C6?logo=typescript&logoColor=white)](https://nextjs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Built for the Google Build with Gemini Hackathon.** An autonomous multi-agent surplus food logistics network powered by **Google Gemini 2.5 Flash on Vertex AI**, enforcing FSSAI 2019 statutory regulations, WHO safety standards, and real-time fleet coordination.
+> **Built for the Google Build with Gemini .** An autonomous multi-agent surplus food logistics network powered by **Google Gemini 2.5 Flash on Vertex AI**, enforcing FSSAI 2019 statutory regulations, WHO safety standards, and real-time fleet coordination.
 
 ---
 
